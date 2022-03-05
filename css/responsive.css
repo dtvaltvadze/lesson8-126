@@ -1,0 +1,37 @@
+@media (max-width: 700px) { 
+    .header-wrapper-flex {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 500px) {
+    .container-block {
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 523px) {
+    .section2-text {
+        font-size: 39px;
+    }
+}
+@media (max-width: 523px) {
+    .p-section2 {
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 400px) {
+    .block {
+        width: 300px;
+    }
+}
+@media (max-width: 712px) {
+    .text-block {
+        flex-wrap: wrap;
+    }
+}
+@media (max-with: 505px) {
+    .image-block {
+       width: 250px;
+       flex-wrap: wrap;
+    }
+}
